@@ -1,1 +1,1 @@
-### FullStack Web Development by, Some adjunt teacher
+### FullStack Web Development Side course 
